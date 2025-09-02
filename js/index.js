@@ -1,5 +1,5 @@
 let password=document.getElementById('pass');
-let btn=document.getElementById('click');
+let btn=document.getElementById('clicks');
 
 let count=0;
 
